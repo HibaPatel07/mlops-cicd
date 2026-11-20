@@ -55,3 +55,6 @@ Open the repository on GitHub and go to the **Actions** tab, then select **MLOps
 - scikit-learn
 - pytest
 - GitHub Actions
+
+small change 
+Tested with a pull request.
